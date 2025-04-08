@@ -12,7 +12,7 @@ I am very interested in the applications in the fields of quantum computing and 
 
 contact me:
 I hope to participate in the cooperation of some projects and competitions.
-Sincerely hope that those who share the relevant interests can contact me via QQ (QQ number: 3447039128) or email (Email address: houyuming08280828@qq.com).  
+Sincerely hope that those who share the relevant interests can contact me via QQ (QQ number: 3447039126) or email (Email address: houyuming08280828@qq.com).  
 
 
 This account mainly focuses on recording and sharing my learning materials, as well as academic sharing of some project experiences.
