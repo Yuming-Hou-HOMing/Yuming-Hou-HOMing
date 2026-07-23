@@ -1,20 +1,17 @@
-Hi, I’m @Yuming-Hou-HOMing; 
-an undergraduate student at the School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University.
+嗨，我是侯宇明。我在中国留学，主修金融数学。
+我曾在学校的量化金融实验室担任研究助理一段时间，并独立或与团队成员共同参与了多个项目。我的研究兴趣集中在人工智能与数学在金融市场中的应用，主要涉及机器学习、深度学习、量化金融、因子投资、数学建模及算法等领域。
+我稍后会在此上传更多个人项目，以便展示和分享。
+---------
+联系我：
+我希望参与一些项目的合作与竞赛。
+诚挚地希望志同道合的朋友能通过QQ（QQ号：3447039126）或电子邮件（邮箱地址：houyuming08280828@qq.com）与我联系。
+-----------------------------------------------------------
+-------------------------------------------------------
 
-Interest direction: 
-I have relatively excellent math grades and am very interested in the derivation of mathematical formulas and their application fields.
-I believe that mathematics is an extremely charming subject and is full of creativity;
+HI，我是侯聿铭，现于国内主修金融数学专业。我曾在校内量化金融实验室担任过一段时间研究助理，也一直以个人独立、团队合作的形式参与过不少项目。我的研究兴趣是人工智能与数学在金融市场中的应用，方向主要包含机器学习、深度学习、量化金融、因子投资、数学建模与算法。
+之后我会把更多个人项目上传到这里展示分享。
 
-Research direction and objective:
-I am currently studying courses in the fields of finance and mathematics at school.
-Additionally, I have taken the initiative to learn programming, financial modeling, as well as courses and skills related to machine learning, deep learning, and so on.
-I am very interested in the applications in the fields of quantum computing and quantum finance.
-
-contact me:
-I hope to participate in the cooperation of some projects and competitions.
-Sincerely hope that those who share the relevant interests can contact me via QQ (QQ number: 3447039126) or email (Email address: houyuming08280828@qq.com).  
-
-
-This account mainly focuses on recording and sharing my learning materials, as well as academic sharing of some project experiences.
-I hope to make new academic friends on this website and keep making progress!
-Everyone is welcome to discuss together.
+联系我：
+希望能参与各类项目合作、学科竞赛。诚邀有相同研究兴趣的同学、前辈联系交流：
+QQ：3447039126
+邮箱：houyuming08280828@qq.com
