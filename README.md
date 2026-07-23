@@ -1,13 +1,11 @@
-嗨，我是侯宇明。我在中国留学，主修金融数学。
-我曾在学校的量化金融实验室担任研究助理一段时间，并独立或与团队成员共同参与了多个项目。我的研究兴趣集中在人工智能与数学在金融市场中的应用，主要涉及机器学习、深度学习、量化金融、因子投资、数学建模及算法等领域。
-我稍后会在此上传更多个人项目，以便展示和分享。
+Hi, I’m Hou Yuming. I’m studying in China and majoring in Financial Mathematics. I worked as a research assistant in the school’s quantitative finance lab for a period of time, and I’ve taken part in many projects both on my own and with teammates.
+My research interests lie in the applications of AI and mathematics in financial markets, mainly covering machine learning, deep learning, quantitative finance, factor investing, mathematical modeling and algorithms. I will upload more of my personal projects here for display and sharing later on.
 ---------
-联系我：
-我希望参与一些项目的合作与竞赛。
-诚挚地希望志同道合的朋友能通过QQ（QQ号：3447039126）或电子邮件（邮箱地址：houyuming08280828@qq.com）与我联系。
+contact me:
+I hope to participate in the cooperation of some projects and competitions.
+Sincerely hope that those who share the relevant interests can contact me via QQ (QQ number: 3447039126) or email (Email address: houyuming08280828@qq.com).  
 -----------------------------------------------------------
 -------------------------------------------------------
-
 HI，我是侯聿铭，现于国内主修金融数学专业。我曾在校内量化金融实验室担任过一段时间研究助理，也一直以个人独立、团队合作的形式参与过不少项目。我的研究兴趣是人工智能与数学在金融市场中的应用，方向主要包含机器学习、深度学习、量化金融、因子投资、数学建模与算法。
 之后我会把更多个人项目上传到这里展示分享。
 
